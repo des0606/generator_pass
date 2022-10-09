@@ -1,0 +1,33 @@
+body  {
+    background-color: #bfeaf1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+}
+.card{
+    width: 600px;
+margin: 20px auto;
+background-color:#fff;
+box-shadow: 0 5px 10px 
+#ccc;
+border: radious 5px;
+padding: 20px;
+}
+.card-foto {
+    display:block;
+    width: 500px;
+    height: 350px;
+    margin:0 auto;
+    border-radius: 10%;
+}
+.card-title {
+    text-align: center;
+
+}
+.card-text {
+    font-size: 10px;
+}
+.text {
+    font-size:30px;
+    margin:0% 3% ;
+}
